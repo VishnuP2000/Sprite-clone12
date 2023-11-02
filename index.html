@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="sp.css" type="text/css" rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="a">
+
+        <img class="b" src="st.png">
+        <div class="c">
+            <a class="product" href="sp.css">product</a>
+            <a class="product" href="sp.css">Sprite Zero Sugar</a>
+            <a class="product" href="sp.css">The Creators</a>
+            <a class="product" href="sp.css">Buy Now</a>
+        </div>
+        <div class="g">
+            <img src="sfb.svg" class="fb">
+            <img src="stwiter.svg" class="fb">
+            <img src="syoutube.svg" class="fb">
+            <img src="sinsta.svg" class="fb">
+            <img src="sspoty.svg" class="fb">
+            <img src="suser.svg" class="fb user">
+
+        </div>
+
+
+    </div>
+    <div class="d">
+        <video class="dd" muted autoplay>
+            <source type="video/mp4" src="limited.mp4" autoplay>
+        </video>
+    </div>
+    <div class="h">
+        <h1 class="e">'Tis The Season To Spice Things<br> Up </h1>
+        
+
+        <h6 class="parag"> Sign up to be the first to know when the official flavor of the holidays hits shelves. sprite <br>winter
+            spiced cranbbery and winter spiced cranbbery zero sugar will be here soon.</h6>
+        
+        <h3>Email Address*</h3>
+        <input type="text" class="f">
+        <h3 class="date">Date Of Birth </h3>
+        <div class="dtl">
+
+            <select class="Data">
+                <option>month</option>
+                <option>january</option>
+                <option>february</option>
+                <option>march</option>
+                <option>april</option>
+                <option>may</option>
+                <option>jun</option>
+                <option>july</option>
+                <option>august</option>
+                <option>september</option>
+                <option>october</option>
+                <option>november</option>
+                <option>dicember</option>
+            </select>
+            <select class="day">
+                <option>day</option>
+                <option>01</option>
+                <option>02</option>
+                <option>03</option>
+                <option>04</option>
+                <option>05</option>
+                <option>06</option>
+                <option>07</option>
+                <option>08</option>
+                <option>09</option>
+                <option>10</option>
+            </select>
+            <select class="year">
+                <option>year</option>
+                <option>2023</option>
+                <option>2022</option>
+                <option>2021</option>
+                <option>2020</option>
+                <option>2019</option>
+                <option>2018</option>
+                <option>2017</option>
+                <option>2016</option>
+                <option>2015</option>
+                <option>2014</option>
+                <option>2013</option>
+                <option>2012</option>
+
+            </select>
+            <br>
+
+            <!-- <label for=""></label> -->
+
+            <div class="ctm">
+                <label class="container">
+                    <input type="checkbox" checked="checked">
+                    <strong> agree to The Coca-Cola Company's </strong>
+                    <u>Terms of Use </u>and<u> privacy policy</u>
+                    <h6>This site is protected by reCAPTCHA and the Google privacy policy and Terms of Service apply
+                    </h6>
+
+                </label>
+            </div>
+            <div class="join">
+           <button class="join1" >JOIN THE LIST</button>
+                
+
+            </div>
+
+        </div>
+
+
+
+
+        <a href=""></a>
+
+
+    </div>
+    <div class="pic">
+        <div class="quate">
+            <h1>Made with clear<br> plastic To help this <br>bottle be re-made.</h1>
+        </div>
+        <img src="btt.png" class="cip">
+
+    </div>
+   <div class="last">
+    
+    <div class="first">
+        <img src="st.png" class="sit">
+       <div class="con">
+        <h4>CONNECTION WITH US</h4>
+        <div class="ig">
+            <img src="sfb.svg" class="bf">
+            <img src="stwiter.svg" class="bf">
+            <img src="syoutube.svg" class="bf">
+            <img src="sinsta.svg" class="bf">
+            <img src="sspoty.svg" class="bf">
+
+
+        </div>
+       
+       </div>
+        
+       
+
+
+    </div>
+    <div class="fin">
+
+        <h1 class="st">PRODUCT</h1>
+        <h1 class="st1">SPRITE</h1>
+        
+        <h1 class="st2"> SPRITE ZERO SUGAR </h1>
+        <h1 class="st3"> SPRITE LYMONADA </h1>
+        <h1 class="st4"> SPRITE CHERRY </h1>
+        <h1 class="st5"> SPRITE TROPICAL MIX </h1>
+        <h1 class="st6"> SPRITE WINTER SPICED CRANBERRY </h1>
+        <h1 class="st7"> SPRITE WINTER SPICED CRANBERRY ZERO SUGAR </h1>
+        
+       
+            
+    </div>
+    <div class="para2">
+        <p>2023 the Coca-Cola Company All right reserved</p>
+    </div>
+    <div class="ts">
+        <h1 class="ts1">SUPPORT CENTRE|</h1>
+        <h1 class="ts1">TERMS|</h1>
+        <h1 class="ts1">PRIVACY|</h1>
+        <h1 class="ts1">California Notice at Collectyion|</h1>
+        <h1 class="ts1">Do Not Sell Or Share My Personal Information|</h1>
+        <h1 class="ts1">Sitemap</h1>
+        <h1 class="ts1">Rules</h1>
+        
+        
+
+
+    </div>
+    
+   
+
+   
+   </div>
+    
+
+</body>
+
+</html>
